@@ -1,3 +1,7 @@
--r requirements/build.txt
--r requirements/optional.txt
--r requirements/runtime.txt
+## For mmdetection
+future
+tensorboard
+
+## For label studio
+label-studio
+label-studio-ml
