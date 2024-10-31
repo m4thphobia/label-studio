@@ -48,7 +48,7 @@ Labeling Setupでは"Object Detection with Bounding Box"を選択 $\rightarrow$ 
 <img src="imgs/5.png" alt="Image Description" width="800">
 
 9. **Backendで動くModelを設定**\
-右上のsettingからModelを選択 $\rightarrow$ Backend urlを設定(名前は任意)。Backend urlはrun.shとstart.shで変更可能。
+右上のsettingからModelを選択 $\rightarrow$ Backend url画像の通りに設定(名前は任意)。Backend urlはrun.shとstart.shで変更可能。
 
 <img src="imgs/6.png" alt="Image Description" width="800">
 
@@ -60,6 +60,6 @@ Labeling Setupでは"Object Detection with Bounding Box"を選択 $\rightarrow$ 
 10. **Annotation**\
 "Label All Task"でannotation開始。手動でannotationするときは左下のstenosisラベルを選択すれば可能。
 
-<img src="imgs/8.png" alt="Image Description" width="800">
+<img src="imgs/6.png" alt="Image Description" width="800">
 
 <img src="imgs/9.png" alt="Image Description" width="800">
