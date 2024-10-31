@@ -50,7 +50,7 @@ Labeling Setupでは"Object Detection with Bounding Box"を選択 $\rightarrow$ 
 9. **Backendで動くModelを設定**\
 右上のsettingからModelを選択 $\rightarrow$ Backend urlを設定(名前は任意)。Backend urlはrun.shとstart.shで変更可能。
 
-<img src="imgs/8.png" alt="Image Description" width="800">
+<img src="imgs/6.png" alt="Image Description" width="800">
 
 <img src="imgs/7.png" alt="Image Description" width="800">
 
