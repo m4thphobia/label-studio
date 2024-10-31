@@ -1,12 +1,12 @@
 # Manual for auto-labeling with learnt parameters from mmdetection
 
 1. **Ripositoryのclone:**\
-このRipositoryのclone $\rightarrow$ mmdetectionディレクトリに移動。
+このRipositoryのclone $\rightarrow$ label-studioディレクトリに移動。
    ```bash
    git clone git@github.com:m4thphobia/label-studio.git
    ```
    ```bash
-   cd mmdetection
+   cd label-studio
    ```
 2. **イメージのビルド:**
    ```bash
