@@ -8,6 +8,6 @@ docker container run --rm -it \
     --gpus=all \
     -p 8003:8003 \
     -p 8004:8004 \
-    ${USER}_mmdetection
+    ${USER}_label-studio
 
 # http://localhost:8003

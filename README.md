@@ -57,6 +57,8 @@ Labeling Setupでは"Object Detection with Bounding Box"を選択 $\rightarrow$ 
 
 
 10. **Annotation**\
-"Label All Task"でannotation開始。
+"Label All Task"でannotation開始。手動でannotationするときは左下のstenosisラベルを選択すれば可能。
 
 <img src="imgs/6.png" alt="Image Description" width="600">
+
+<img src="imgs/9.png" alt="Image Description" width="600">
