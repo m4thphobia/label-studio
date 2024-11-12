@@ -18,7 +18,11 @@
    ```
 4. **label-studioの起動(back goundでYOLOXが動くようになってる):**
    ```bash
-   sh start.sh
+   sh start.sh yolo
+   ```
+   もしくは
+   ```bash
+   sh start.sh retinanet
    ```
 5. **ブラウザでlabel-studioへ:**\
    4.の後少し待つと何文か出力されるので, 以下の文を探してブラウザで at 以降にアクセス(この場合だとhttp://0.0.0.0:8004/)。
